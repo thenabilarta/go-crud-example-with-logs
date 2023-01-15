@@ -1,0 +1,1 @@
+time="2023-01-15T14:25:39+07:00" level=info msg="Running on version 1, build date : 10"

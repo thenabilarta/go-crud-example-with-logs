@@ -1,0 +1,1 @@
+gin --port 10200 --appPort 1905 --all -i -x log run main.go
